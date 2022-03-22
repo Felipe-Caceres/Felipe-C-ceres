@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Cormorant Garamond', serif;
+}
+
+
+.ewk_cont_sec_1{
+    padding: 10%;
+}
+
+.ewk_cont_sec_1_link{
+    padding: 5%;
+}
+
+.ewk_cont_sec_1_link a{
+    width: 200px;
+}
+
+.ewk_cont_sec_1 hr{
+    border-top: 1px solid rgba(241, 60, 60, 0.3);
+}
+
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
